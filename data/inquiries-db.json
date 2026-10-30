@@ -1,0 +1,62 @@
+[
+  {
+    "id": "inq_1792823980916_2nwq7m",
+    "referenceId": "APV-2026-44UP4",
+    "createdAt": "2026-10-24T06:39:40.916Z",
+    "updatedAt": "2026-10-24T06:39:40.916Z",
+    "fullName": "sandip",
+    "email": "sdjfjsdf@gmail.com",
+    "phone": "345345346435",
+    "companyName": "xmv xkvm",
+    "serviceInterest": "Specialized Engineering Solutions",
+    "message": "sndsijdfnisdfisfnisnfisfnsi",
+    "status": "new",
+    "ipAddress": "::1",
+    "emailNotificationSent": false
+  },
+  {
+    "id": "inq_1792760392229_0hq4ef",
+    "referenceId": "APV-2026-9AKRZ",
+    "createdAt": "2026-10-23T12:59:52.229Z",
+    "updatedAt": "2026-10-23T12:59:52.229Z",
+    "fullName": "soham",
+    "email": "alks@123gmail.com",
+    "phone": "879879879",
+    "companyName": "sldkj;sldf",
+    "serviceInterest": "Specialized Engineering Solutions",
+    "message": "alksdjlaksjlkasjdlksa",
+    "status": "new",
+    "ipAddress": "::1",
+    "emailNotificationSent": false
+  },
+  {
+    "id": "inq_1792759686746_eki0hd",
+    "referenceId": "APV-2026-3SXO7",
+    "createdAt": "2026-10-23T12:48:06.746Z",
+    "updatedAt": "2026-10-23T12:48:06.746Z",
+    "fullName": "akash",
+    "email": "waghchaureakash2001@gmail.com",
+    "phone": "98347509345",
+    "companyName": "laskdjlaskd",
+    "serviceInterest": "Specialized Engineering Solutions",
+    "message": "lwkjflsdjflsdjflksjdlfksjdlkfjsdl",
+    "status": "new",
+    "ipAddress": "::1",
+    "emailNotificationSent": false
+  },
+  {
+    "id": "inq_1792759427440_xk2liw",
+    "referenceId": "APV-2026-12LTM",
+    "createdAt": "2026-10-23T12:43:47.440Z",
+    "updatedAt": "2026-10-23T12:43:47.440Z",
+    "fullName": "Pradeep Kulkarni",
+    "email": "pradeep.k@energymfg.in",
+    "phone": "+91 98220 12345",
+    "companyName": "Kulkarni Industrial Forge",
+    "serviceInterest": "Power Generation Solutions",
+    "message": "We require a 2.5 MW captive gas power generation setup for continuous process heating and baseline electrical supply.",
+    "status": "new",
+    "ipAddress": "::1",
+    "emailNotificationSent": false
+  }
+]

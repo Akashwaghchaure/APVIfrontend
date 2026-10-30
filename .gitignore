@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Debug and runtime logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment local files (do not commit secrets)
+.env*.local
+
+# System files
+.DS_Store
+Thumbs.db
